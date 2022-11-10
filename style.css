@@ -1,0 +1,59 @@
+body{
+  background-color:#232323;
+}
+
+/* .container1{
+grid-area: container;
+background-color: blue;
+
+} */
+
+#quadro{
+  position: absolute;
+  margin-left: 40vh;
+  margin-top: 14vh;
+  width: 800px;
+  height: 460px;
+  background: #FFFFFF;
+  border-radius: 30px;
+}
+
+#logo{
+    position: absolute;
+    width: 120px;
+    height: 80px;
+    bottom: 1vh;
+    left: 1vh;
+}
+
+h1{
+    position: absolute;
+    margin-left: 80vh;
+    margin-top: 2vh;
+    color: #FFFFFF;
+    font-family: initial;
+}
+h2{
+  margin-top: 2vh;
+  position: absolute;
+  margin-left: 56vh;
+  color: black;
+  font-family: initial;
+
+}
+
+/* #login{
+    position: relative;
+    width: 400px;
+    height: 150px;
+    margin-top: 40px;
+    margin-left: 340px;
+    
+    color: black;
+  font-family: initial;
+
+
+} */
+
+  
+  
